@@ -1,1 +1,1 @@
-# Collection XML Color Pallates
+# Collection XML Color Palettes
