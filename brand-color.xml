@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Google Color -->
+	<color name="google_blue">#4285F4</color>
+	<color name="google_yellow">#FBBC05</color>
+	<color name="google_green">#34A853</color>
+	<color name="google_red">#EA4335</color>
+
+	<!-- Twiiter  -->
+	<color name="twitter_blue">#55ACEE</color>
+	<color name="twitter_black">#292F33</color>
+	<color name="twitter_dark_grey">#66757F</color>
+	<color name="twitter_light_grey">#CCD6DD</color>
+	<color name="twitter_grey">#E1E8ED</color>
+
+	<!-- Facebook  -->
+	<color name="fb_blue">#3B5998</color>
+	<color name="fb_blur_blue">#8B9DC3</color>
+	<color name="fb_grey">#DFE3EE</color>
+	<color name="fb_light_grey">#F7F7F7</color>
+
+	<!-- Microsoft -->
+	<color name="msft_red">#F65314</color>
+	<color name="msft_green">#7CBB00</color>
+	<color name="msft_blue">#00A1F1</color>
+	<color name="msft_yellow">#FFBB00</color>
+
+	<!-- Instagram -->
+	<color name="insta_red">#fb3958</color>
+	<color name="insta_yellow">#ffc838</color>
+	<color name="insta_green">#6dc993</color>
+	<color name="insta_blue">#458eff</color>
+	<color name="insta_light_brown">#ded1c1</color>
+	<color name="insta_dark_brown">#9b6954</color>
+	<color name="insta_dark_blue">#125688</color>
+
+	<!-- Yahoo -->
+	<color name="yahoo_purple">#410093</color>
+
+	<!-- Domino's -->
+	<color name="domino_blue">#0b648f</color>
+	<color name="domino_red">#e21737</color>
+
+	<!-- Adobe -->
+	<color name="adobe_red">#ff0000</color>
+	<color name="adobe_orange">#fbb034</color>
+	<color name="adobe_yellow">#ffdd00</color>
+	<color name="adobe_green">#c1d82f</color>
+	<color name="adobe_blue">#00a4e4</color>
+	<color name="adobe_brown">#8a7967</color>
+	<color name="adobe_grey">#6a737b</color>
+
+	<!-- Amazon -->
+	<color name="amazon_orange">#ff9900</color>
+	<color name="amazon_blue">#146eb4</color>
+
+	<!-- Burgerking -->
+	<color name="burgerking_red">#ec1c24</color>
+	<color name="burgerking_yellow">#fdbd10</color>
+	<color name="burgerking_blue">#0066b2</color>
+	<color name="burgerking_orange">#ed7902</color>
+
+	<!-- Youtube -->
+	<color name="youtube_red">#e52d27</color>
+	<color name="youtube_flat_red">#cd201f</color>
+	<color name="youtube_dark_red">#b31217</color>
+
+	<!-- Ikea -->
+	<color name="ikea_yellow">#FFCC00</color>
+	<color name="ikea_blue">#003399</color>
+
+	<!-- LinkedIn -->
+	<color name="linkedin_blue">#0077B5</color>
+	<color name="linkedin_dark_grey">#313335</color>
+	<color name="linkedin_medium_grey">#86888A</color>
+	<color name="linkedin_light_grey">#CACCCE</color>
+	<color name="linkedin_acc_blue">#00A0DC</color>
+	<color name="linkedin_acc_purple">#8D6CAB</color>
+	<color name="linkedin_acc_red">#DD5143</color>
+	<color name="linkedin_acc_orange">#E68523</color>
+
+	<!-- Uber -->
+	<color name="uber_grey">#c0c0c8</color>
+	<color name="uber_blue">#1fbad6</color>
+	<color name="uber_light_black">#222233</color>
+	<color name="uber_medium_black">#161629</color>
+	<color name="uber_dark_black">#09091a</color>
+
+	<!-- Gitlab -->
+	<color name="gitlab_orange">#fca326</color>
+	<color name="gitlab_dark_orange">#fc6d26</color>
+	<color name="gitlab_acc_red">#e24329</color>
+	<color name="gitlab_dark_purple">#554488</color>
+	
+	<!-- Github -->
+	<color name="github_blue">#4078c0</color>
+	<color name="github_green">#6cc644</color>
+	<color name="github_dark_red">#bd2c00</color>
+	<color name="github_red">#c9510c</color>
+	<color name="github_purple">#6e5494</color>
+	<color name="github_light_grey">#fafafa</color>
+	<color name="github_grey">#f5f5f5</color>
+	<color name="github_dark">#333</color>
+
+	<!-- iOS -->
+	<color name="ios_acc_light_blue">#5fc9f8</color>
+	<color name="ios_acc_yellow">#fecb2e</color>
+	<color name="ios_acc_orange">#fd9426</color>
+	<color name="ios_acc_red">#fc3158</color>
+	<color name="ios_acc_blue">#147efb</color>
+	<color name="ios_acc_green">#53d769</color>
+	<color name="ios_red">#fc3d39</color>
+	<color name="ios_grey">#8e8e93</color>
+
+	<!-- McDonald's Color -->
+	<color name="mcd_red">#bf0c0c</color>
+	<color name="mcd_dark_orange">#e76a05</color>
+	<color name="mcd_orange">#ffc600</color>
+	<color name="mcd_green">#47bc00</color>
+	<color name="mcd_dark_blue">#05007b</color>
+	<color name="mcd_purple">#9748a8</color>
+	<color name="mcd_acc_blue">#2bb3f3</color>
+	<color name="mcd_dark_brown">#865200</color>
+
+	<!-- Pizza Hut -->
+	<color name="pizza_red">#ee3124</color>
+	<color name="pizza_green">#00a160</color>
+	<color name="pizza_yellow">#ffc425</color>
+
+	<!-- Wordpress -->
+	<color name="wordpress_blue">#0087be</color>
+	<color name="wordpress_light_blue">#78dcfa</color>
+	<color name="wordpress_acc_blue">#00aadc</color>
+	<color name="wordpress_dark_blue">#005082</color>
+	<color name="wordpress_acc_grey">#87a6bc</color>
+	<color name="wordpress_light_grey">#f3f6f8</color>
+	<color name="wordpress_medium_grey">#e9eff3</color>
+	<color name="wordpress_grey">#a8bece</color>
+	<color name="wordpress_acc_medium_grey">#668eaa</color>
+	<color name="wordpress_acc_dark_grey">#4f748e</color>
+	<color name="wordpress_acc_dark">#3d596d</color>
+	<color name="wordpress_dark">#2e4453</color>
+	<color name="wordpress_red">#d54e21</color>
+	<color name="wordpress_orange">#f0821e</color>
+	<color name="wordpress_light_green">#4ab866</color>
+	<color name="wordpress_light_orange">#f0b849</color>
+	<color name="wordpress_light_red">#d94f4f</color>
+
+	<!-- PHP -->
+	<color name="php_acc_grey">#8892be</color>
+	<color name="php_acc_dark_blue">#4f5b93</color>
+	<color name="php_acc_light_green">#99cc99</color>
+
+	<!-- Paypal -->
+	<color name="paypal_light_blue">#009cde</color>
+	<color name="paypal_medium_blue">#003087</color>
+	<color name="paypal_dark_blue">#012169</color>
+
+
+</resources>
