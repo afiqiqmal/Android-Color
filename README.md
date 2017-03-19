@@ -6,3 +6,4 @@
 3. X11 Color      - [Here](https://github.com/afiqiqmal/Android-Color/blob/master/x11-color.xml)
 4. XKCD Color     - [Here](https://github.com/afiqiqmal/Android-Color/blob/master/xkcd-color.xml)
 5. Resene Color   - [Here](https://github.com/afiqiqmal/Android-Color/blob/master/resene-color.xml)
+6. Australian Color - [Here](https://github.com/afiqiqmal/Android-Color/blob/master/aust-color.xml)
