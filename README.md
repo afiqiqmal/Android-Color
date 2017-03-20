@@ -7,3 +7,5 @@
 4. XKCD Color     - [Here](https://github.com/afiqiqmal/Android-Color/blob/master/xkcd-color.xml)
 5. Resene Color   - [Here](https://github.com/afiqiqmal/Android-Color/blob/master/resene-color.xml)
 6. Australian Color - [Here](https://github.com/afiqiqmal/Android-Color/blob/master/aust-color.xml)
+7. Flat Ui Color  - [Here](https://github.com/afiqiqmal/Android-Color/blob/master/metro-color.xml)
+8. Metro Ui Color - [Here](https://github.com/afiqiqmal/Android-Color/blob/master/metro-color.xml)
