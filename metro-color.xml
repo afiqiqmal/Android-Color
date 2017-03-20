@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="metro_lime">#a4c400</color>
+	<color name="metro_green">#60a917</color>
+	<color name="metro_emerald">#008a00</color>
+	<color name="metro_teal">#00aba9</color>
+	<color name="metro_cyan">#1ba1e2</color>
+	<color name="metro_colbalt">#0050ef</color>
+	<color name="metro_indigo">#6a00ff</color>
+	<color name="metro_violet">#aa00ff</color>
+	<color name="metro_pink">#f472d0</color>
+	<color name="metro_magenta">#d80073</color>
+	<color name="metro_crimson">#a20025</color>
+	<color name="metro_red">#e51400</color>
+	<color name="metro_orange">#fa6800</color>
+	<color name="metro_amber">#f0a30a</color>
+	<color name="metro_yellow">#e3c800</color>
+	<color name="metro_brown">#825a2c</color>
+	<color name="metro_olive">#6d8764</color>
+	<color name="metro_steel">#647687</color>
+	<color name="metro_mauve">#76608a</color>
+	<color name="metro_sienna">#a0522d</color>
+</resources>
